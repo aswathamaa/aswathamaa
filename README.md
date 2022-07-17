@@ -45,10 +45,8 @@ I would love to connect with you for a discussion around opportunities you have 
 
 <a href="https://github.com/aswathamaa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sanskar-r-2437381a1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://app.hackthebox.com/profile/300428"><img src="https://img.shields.io/badge/HacktheBox-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://hashnode.com/@Ankur9669"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+<a href="https://app.hackthebox.com/profile/300428"><img src="https://img.shields.io/badge/HacktheBox-E4405F?style=for-the-badge&logo=hackthebox&logoColor=white"/></a>
 
----
 
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankur9669&show_icons=true&locale=en&layout=compact" alt="ankur9669-stats" /></div>
 
