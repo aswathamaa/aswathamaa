@@ -48,13 +48,13 @@ I would love to connect with you for a discussion around opportunities you have 
 <a href="https://app.hackthebox.com/profile/300428"><img src="https://img.shields.io/badge/HacktheBox-E4405F?style=for-the-badge&logo=hackthebox&logoColor=white"/></a>
 
 
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aswathamaa&show_icons=true&locale=en&layout=compact" alt="ankur9669-stats" /></div>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aswathamaa&show_icons=true&locale=en&layout=compact" alt="aswathamaa-stats" /></div>
 
 <br>
 
-<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankur9669&show_icons=true&locale=en" alt="ankur9669-stats" />
+<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswathamaa&show_icons=true&locale=en" alt="aswathamaa-stats" />
 </div>
 
 <br>
 
-<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankur9669&" alt="ankur9669-stats" /></div>
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aswathamaa&" alt="aswathamaa-stats" /></div>
