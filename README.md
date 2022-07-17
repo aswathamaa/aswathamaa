@@ -26,11 +26,11 @@ I would love to connect with you for a discussion around opportunities you have 
 ## 👨‍💻 Tech Skills
 
 ![](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux&logoColor=white)
-![](https://img.shields.io/badge/Networking-1572B6?style=for-the-badge&logo=Networking&logoColor=white)
+![](https://img.shields.io/badge/Networking-1572B6?style=for-the-badge&logo=networking&logoColor=white)
 ![](https://img.shields.io/badge/BurpSuite-F7DF1E?style=for-the-badge&logo=burpsuite&logoColor=black)
 ![](https://img.shields.io/badge/Nmap-43853D?style=for-the-badge&logo=nmap&logoColor=white)
-![](https://img.shields.io/badge/ProblemSolving-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Metasploit-20232A?style=for-the-badge&logo=Metasploit&logoColor=61DAFB)
+![](https://img.shields.io/badge/ProblemSolving-007ACC?style=for-the-badge&logo=problemsolving&logoColor=white)
+![](https://img.shields.io/badge/Metasploit-20232A?style=for-the-badge&logo=metasploit&logoColor=61DAFB)
 ![](https://img.shields.io/badge/SqlMap-000000?style=for-the-badge&logo=sqlmap&logoColor=white)
 ![](https://img.shields.io/badge/PacketTracer-F05032?style=for-the-badge&logo=packettracert&logoColor=white)
 ![](https://img.shields.io/badge/Network-Security-00C7B7?style=for-the-badge&logo=networksecurity&logoColor=white)
