@@ -34,39 +34,18 @@ I would love to connect with you for a discussion around opportunities you have 
 ![](https://img.shields.io/badge/SqlMap-000000?style=for-the-badge&logo=sqlmap&logoColor=white)
 ![](https://img.shields.io/badge/PacketTracer-F05032?style=for-the-badge&logo=packettracert&logoColor=white)
 ![](https://img.shields.io/badge/Network-Security-00C7B7?style=for-the-badge&logo=networksecurity&logoColor=white)
-![](https://img.shields.io/badge/Java-eb4c34?style=for-the-badge&logo=java&logoColor=black)
-![](https://img.shields.io/badge/Android-51fc42?style=for-the-badge&logo=android&logoColor=black)
-![](https://img.shields.io/badge/redux-0AC97F?style=for-the-badge&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/Owasp-eb4c34?style=for-the-badge&logo=owasp&logoColor=black)
+![](https://img.shields.io/badge/Nessus-51fc42?style=for-the-badge&logo=security&logoColor=black)
+![](https://img.shields.io/badge/Searchsploit-0AC97F?style=for-the-badge&logo=searchsploit&logoColor=white)
 
 ---
 
-## ✍️ Recent Blog Posts
-
-<!-- <table align="center">
-  <tr>
-    <td width="50%"> -->
-
-<!-- BLOG-POST-LIST:START -->
-
-- [OOPS Concepts for Begginers](https://hashnode.com/post/oops-concepts-easily-explained-ckseoyss00nttt2s1hl0jha0x)
-- [Components in React](https://hashnode.com/post/lets-learn-about-components-in-react-js-ckonynmna0edz6ds1a6rc3f5e)
-- [Hoisting and TDZ in Javascript](https://hashnode.com/post/what-is-hoisting-in-javascript-and-temporal-dead-zone-cky9ukzkj1btp5ns14v7n68pi)
-- [Deep Copy and shallow copy in Javascript](https://hashnode.com/post/what-is-deep-copy-and-shallow-copy-in-javascript-ckyd72pjr03o03ks15joi5uor)
-- [How Asychronous Code is executed in Javascript?](https://hashnode.com/post/how-asynchronous-code-is-executed-in-javascript-cky77u6hy0hk75ns1gqz50gu2)
-
-<!-- BLOG-POST-LIST:END -->
-
-<!-- </td>
-  </tr>
-</table> -->
-
----
 
 ## 🌍 Find Around The Web
 
-<a href="https://github.com/Ankur9669"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ankur-gupta-0805a11a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/_.ankur._1904/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://github.com/aswathamaa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sanskar-r-2437381a1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://app.hackthebox.com/profile/300428"><img src="https://img.shields.io/badge/HacktheBox-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://hashnode.com/@Ankur9669"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 
 ---
